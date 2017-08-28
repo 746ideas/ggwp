@@ -1,0 +1,8 @@
+<tabs>
+    <tab id="@+id/newsmenu"
+        title="@string/news"
+        icon="@drawable/ic_action_name"/>
+    <tab id="@+id/scoresmenu"
+        title="@string/scores"
+        icon="@drawable/ic_scores"/>
+</tabs>
